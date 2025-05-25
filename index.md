@@ -10,12 +10,12 @@ Meine Sparplanausführungen in TradeRepublic sind kostenfrei und werden zur Mona
 
 ### ETFs
 
-- 2x IE00B4L5YX21: iShares: Core MSCI Japan IMI USD (Acc)  
-- 1x IE00BK5BC891: Legal & General (L&G): Clean Water USD (Acc)  
-- 1x NL0011683594: VanEck: Developed Markets Dividend Leaders EUR (Dist)  
-- 1x JE00BN2CJ301: WisdomTree: Core Physical Gold USD \*  
+- 2x IE00B4L5YX21: iShares: **Core MSCI Japan IMI USD (Acc)**
+- 1x IE00BK5BC891: Legal & General (L&G): **Clean Water USD (Acc)**
+- 1x NL0011683594: VanEck: **Developed Markets Dividend Leaders EUR (Dist)**
+- 1x JE00BN2CJ301: WisdomTree: **Core Physical Gold USD \***
 
-\*"WisdomTree Core Physical Gold" ist physisch hinterlegtes und einforderbares Gold, Gewinne sind daher nach einem Jahr halten steuerfrei.
+**\*** "WisdomTree Core Physical Gold" ist physisch hinterlegtes und einforderbares Gold, Gewinne sind daher nach einem Jahr halten steuerfrei.
 
 Ingesamt investiere ich diesen Monat also 5x 300€ = 1500€ in ETFs.
 
