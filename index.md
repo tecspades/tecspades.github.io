@@ -25,4 +25,4 @@ Ingesamt investiere ich diesen Monat also 5x 300€ = 1500€ in ETFs.
 - [**Umlaufrendite**](https://www.onvista.de/zinsen/Umlaufrendite-1490830) (Rendite 10-jähriger Staatsanleihen): 2,4% (Vormonat 2,4%)
 - [**Inflationsrate**](https://www.destatis.de/DE/Themen/Wirtschaft/Konjunkturindikatoren/Basisdaten/vpi001j.html) im April: 2,1% (Vormonat 2,2%)
 
-🐂
+[🐂](https://www.peta.de)
