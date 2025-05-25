@@ -1,1 +1,6 @@
-title: ""
+title: "" # Removes the site title
+# description: "..." # Optional description (some themes use this)
+theme: jekyll-theme-minimal # or another listed below
+# show_downloads: false # Hides the “Download ZIP” button on some themes
+# google_analytics: UA-XXXXXXX-X # For analytics if needed
+markdown: kramdown # Default markdown processor (good default)
