@@ -1,4 +1,4 @@
-title: "" # Removes the site title
+# title: "" # Removes the site title
 # description: "..." # Optional description (some themes use this)
 theme: jekyll-theme-cayman # or another listed below
 # show_downloads: false # Hides the “Download ZIP” button on some themes
