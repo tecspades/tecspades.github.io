@@ -1,4 +1,7 @@
-# **Sparpläne**
+---
+layout: default
+title: "**Sparpläne**"
+---
 
 ## **Sparplan Mai 2025**
 
