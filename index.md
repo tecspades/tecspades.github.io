@@ -3,7 +3,7 @@ layout: default
 title: "Sparpläne"
 ---
 
-## **Sparplan November 2025**
+## **Sparplan Dezember 2025**
 
 Meine Sparrate liegt bei 300€, 1x bedeutet für mich also 1x 300€.
 Meine Sparplanausführungen in TradeRepublic sind kostenfrei und werden zur Monatsmitte ausgeführt.
@@ -23,7 +23,7 @@ Ingesamt investiere ich diesen Monat also 5x 300€ = 1500€ in ETFs.
 ### Kennzahlen
 
 - [**EZB Einlagezinssatz**](https://www.bundesbank.de/dynamic/action/de/statistiken/zeitreihen-datenbanken/zeitreihen-datenbank/723452/723452?tsTab=0&listId=www_szista_iwf&tsId=BBIN1.M.D0.ECB.ECBFAC.EUR.ME&id=0&startDate=2022&dateSelect=2025) (Leitzins): 2,0% (Vormonat 2,0%)
-- [**Umlaufrendite**](https://www.onvista.de/zinsen/Umlaufrendite-1490830) (Rendite 10-jähriger Staatsanleihen): 2,6% (Vormonat 2,6%)
-- [**Inflationsrate**](https://www.destatis.de/DE/Themen/Wirtschaft/Konjunkturindikatoren/Basisdaten/vpi001j.html) im Oktober: 2,3% (Vormonat 2,4%)
+- [**Umlaufrendite**](https://www.onvista.de/zinsen/Umlaufrendite-1490830) (Rendite 10-jähriger Staatsanleihen): 2,7% (Vormonat 2,6%)
+- [**Inflationsrate**](https://www.destatis.de/DE/Themen/Wirtschaft/Konjunkturindikatoren/Basisdaten/vpi001j.html) im November: 2,3% (Vormonat 2,3%)
 
-[🐴](https://www.peta.de)
+[🐏](https://www.peta.de)
